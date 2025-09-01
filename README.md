@@ -1,6 +1,7 @@
+<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fclub-penguin-clap-hands-x0xpyfcu8nonilvg.gif&f=1&nofb=1&ipt=4d47c3e76e3abfcde23285114dec662e0f33862ac53fa43623e41333936d38a0" width="50px">
+
 # Hi Im Malphobus ✨
-## or Dominique/Cris/Paula
-## they/them/no prons
+- Dominique/Cris/Paula - they/them/no prons
 
 ---
 
@@ -17,3 +18,10 @@
 ---
 
 - Fun fact: i think porrigde-like rice is neat and yummers
+
+---
+# Stats
+<div style="display: inline-block">
+<img src="https://github-readme-stats.vercel.app/api?username=Malphobus&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Malphobus's GitHub Stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malphobus&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Malphobus's GitHub Stats" />
+</div>

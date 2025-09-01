@@ -1,4 +1,4 @@
-<img align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fclub-penguin-clap-hands-x0xpyfcu8nonilvg.gif&f=1&nofb=1&ipt=4d47c3e76e3abfcde23285114dec662e0f33862ac53fa43623e41333936d38a0" width="50px">
+<img alt="huzzah!" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fclub-penguin-clap-hands-x0xpyfcu8nonilvg.gif&f=1&nofb=1&ipt=4d47c3e76e3abfcde23285114dec662e0f33862ac53fa43623e41333936d38a0" width="50px">
 
 # Hi Im Malphobus ✨
 - Dominique/Cris/Paula - they/them/no prons

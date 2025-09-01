@@ -1,6 +1,6 @@
 # Hi Im Malphobus ✨
-##or Dominique/Cris/Paula
-##they/them/no prons
+## or Dominique/Cris/Paula
+## they/them/no prons
 
 ---
 

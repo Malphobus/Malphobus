@@ -19,6 +19,7 @@
 ---
 
 - Fun fact: i think porrigde-like rice is neat and yummers
+- i also lowkey like porridge
 
 ---
 # Stats

@@ -1,6 +1,6 @@
 <img alt="huzzah!" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fclub-penguin-clap-hands-x0xpyfcu8nonilvg.gif&f=1&nofb=1&ipt=4d47c3e76e3abfcde23285114dec662e0f33862ac53fa43623e41333936d38a0" width="50px">
 
-# Hi Im Malphobus, a Brazilian artist and gaming engineer student ✨
+# Hi Im Malphobus, amateur Brazilian artist and Gaming Engineer student ✨
 - Dominique/Cris/Paula - they/them/no prons
 - this profile is inherently unprofessional (for now)
 

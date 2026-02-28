@@ -1,15 +1,16 @@
 <img alt="huzzah!" align="right" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifdb.com%2Fimages%2Fhigh%2Fclub-penguin-clap-hands-x0xpyfcu8nonilvg.gif&f=1&nofb=1&ipt=4d47c3e76e3abfcde23285114dec662e0f33862ac53fa43623e41333936d38a0" width="50px">
 
-# Hi Im Malphobus ✨
+# Hi Im Malphobus, a Brazilian artist and gaming engineer student ✨
 - Dominique/Cris/Paula - they/them/no prons
+- this profile is inherently unprofessional (for now)
 
 ---
 
-- ✨View my [HTML/CSS/JS premade utilities!](https://github.com/Malphobus/Malpho-HTML-JS-CSS-library) , ALSO contact me if you want to add your ideas to be added! mainly ideas that aren't in the bootstrap link but can be made with bootstrap.
+- ✨View my (inactive and very short per se) [HTML/CSS/JS premade utilities!](https://github.com/Malphobus/Malpho-HTML-JS-CSS-library) , ALSO contact me if you want to add your ideas to be added! mainly ideas that aren't in the bootstrap link but can be made with bootstrap.
 - currently learning Ruby and C#, want to soon change my OS to a linux Distro that's highly customizable
-- looking forward to collaborate in Front-end projects ONLY, im bad at everything else cuz i just vibe-code</3
+- looking forward to collaborate in Front-end projects ONLY
 - i like retro/indie internet front-end
-- I’m looking for help with C# and Ruby, i wanna code some gayms</3 (hmu if u know how to use geometry nodes in blender)
+- I’m looking for help with C# and Ruby, i wanna code some games (hmu if u know how to use geometry nodes in blender)
 
 ---
 
